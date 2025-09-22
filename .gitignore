@@ -1,0 +1,5 @@
+.vs/
+bin/
+obj/
+game.vcxproj.user idlib.vcxproj.user mpgame.vcxproj.user
+packages/
